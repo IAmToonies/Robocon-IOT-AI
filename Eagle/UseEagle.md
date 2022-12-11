@@ -1,3 +1,5 @@
+- Down and add Libraries of Eagle
+
 # Setup Frame:
 - Step 1: Create new schematic --> Rename file: Test10122022.sch  [Testday.sch]
 - Step 2: Click `Add Part` (On the left) --> Search: frame --> A3L-LOC
