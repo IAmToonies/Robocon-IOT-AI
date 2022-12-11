@@ -15,5 +15,8 @@
 - Step 1: Grid --> Size: 10(board) mm & Alt: 0.127 mm --> On
 - Step 2: Change Size Board: 5x5 block
 - Step 3: Lỗ bắt ốc: `via` --> lỗ 3ly: Drill 3 & viền 5: Diameter 5
-
-[10:20]
+- Drill --> Size: 0.15875 để đi layout linh kiện dán / 2.54 ~ Rào cái
+- Xoay linh kiện --> Chuột phải. Chuyển lớp linh kiện dán phía sau --> click con lăn
+- Yellow line --> We need to place them so that the yellow lines **dont overlap**
+- Vẽ dây: Route Airwire --> Width [0.25 - 1] mm // Dây công suất => **1** mm // Dây tín hiệu => **0.25** mm // Để kết kết nối 2 mặt  --> click con lăn --> Chọn vòng tròn
+- Text --> To put Name --> Font: Vector // Ratio: 15
