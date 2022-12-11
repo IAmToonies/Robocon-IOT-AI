@@ -1,4 +1,4 @@
-- Down and add Libraries of Eagle
+- Down and add Libraries into Eagle
 
 # Setup Frame:
 - Step 1: Create new schematic --> Rename file: Test10122022.sch  [Testday.sch]
