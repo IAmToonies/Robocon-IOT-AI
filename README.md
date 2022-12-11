@@ -6,5 +6,5 @@
 
 
 ### Learn
-- H-Bridge Circuit
+- [H-Bridge Circuit](https://www.youtube.com/watch?v=JkspuxiViNM&list=PLY4yL8CZKCYxgLQgCdkcOXX4D8s_VrgWl&index=3&ab_channel=EngineersDream)
 - Pulse Width Modulation
